@@ -12,12 +12,19 @@ Built using Godot 3.2.3
 
 ## Included Features
 User-controlled player
+
 Player can jump
+
 Includes more than one enemy
+
 Player is in peril
+
 Reports player score
+
 Camera follows player
+
 Game includes more than two levels
+
 Player can save and load the game
 
 ## References 
