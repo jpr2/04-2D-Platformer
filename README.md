@@ -29,6 +29,7 @@ Player can save and load the game
 
 ## References 
 Character repository link: https://github.com/BL-MSCH-C220-S21/2D-Platformer-Character
+
 Playlist for walkthrough: https://www.youtube.com/playlist?list=PL3V-_hJz2cV9H5MfHawcQOSgLniG3iT8w
 
 ## Future Development 
